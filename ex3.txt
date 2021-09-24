@@ -1,0 +1,28 @@
+<html>
+
+<head>
+
+<script type = "text/javascript">
+
+var arr = new Array("What is the meaning of life?","42","true");  
+document.write(arr[0] + "<br />");
+
+document.write(arr[1] + "<br />");
+
+document.write(arr[2] + "<br />");
+
+arr.push(42);
+
+document.write(arr + "<br />");
+
+arr.shift();
+
+document.write(arr + "<br />");
+
+</script>
+
+</head>
+
+<body></body>
+
+</html>

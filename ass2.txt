@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang ="en">
+<head>
+<title>ASSIGNMENT 2</title>
+</head>
+<body>
+username:<input type="text" id="username"/><br/>
+password:<input type="text" id="password"/><br/>
+<input type="button" onclick="submit()" value="submit"/>
+</body>
+<script>
+function submit(){
+var username=document.getElementById("username").value;
+alert (username.toUpperCase());
+}
+</script>
+</html>

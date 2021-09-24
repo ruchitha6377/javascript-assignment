@@ -1,0 +1,32 @@
+<html> 
+
+<head>
+
+<script type = "text/javascript">
+
+var firstName = "ruchitha";
+
+var lastName = "y";
+
+var fullName = firstName + " " + lastName;
+
+var myVariable = 10;
+
+var myString = "meaningOfLife";
+
+document.write(fullName + "<br />");
+
+document.write("meaningOfLife" + "=" + myVariable*2);
+
+console.log(fullName);
+
+console.log(meaningOfLife);
+
+</script>
+
+</head>
+
+<body>
+</body>
+
+</html>

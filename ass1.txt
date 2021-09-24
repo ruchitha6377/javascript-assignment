@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>ASSIGNMENT 01</title>
+</head>
+<body>
+<button onclick="clicked()">click</button>
+</body>
+<script>
+alert("finished loading");
+function clicked(){
+alert("clicked on the button");
+}
+</script>
+</html>
